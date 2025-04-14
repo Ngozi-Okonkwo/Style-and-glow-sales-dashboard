@@ -109,6 +109,6 @@ This dashboard was designed to:
 🙏 A big thank you to Nebiant Analytics for the free 3-day Data Analytics training.
 
 ---
-📌 _ And thank you for viewing this project! Feel free to fork, star ⭐, or contribute._
+📌 And thank you for viewing this project! Feel free to fork, star ⭐, or contribute.
 
 
