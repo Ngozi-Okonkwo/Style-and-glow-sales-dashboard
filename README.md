@@ -102,9 +102,8 @@ This dashboard was designed to:
 ---
 
 ## 🤝 Connect with Me
-
-💼 [LinkedIn](#)  
-💻 [GitHub Portfolio](#)
+🔗 [LinkedIn](https://www.linkedin.com/in/ngoziokonkwo/) 
+💻 [GitHub Portfolio](https://github.com/Ngozi-Okonkwo)
 
 ---
 
