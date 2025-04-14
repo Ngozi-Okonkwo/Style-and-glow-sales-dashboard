@@ -13,7 +13,6 @@ This repository showcases a **Sales Analysis Dashboard** built using **Microsoft
 - [Tools Used](#tools-used)    
 - [Key Insights](#key-insights)  
 - [Recommendations](#recommendations)  
-- [Next Steps](#next-steps)  
 - [Connect with Me](#connect-with-me)  
 
 ---
@@ -107,7 +106,7 @@ This dashboard was designed to:
 
 ---
 
-## 🙏 A big thank you to Nebiant Analytics for the free 3-day Data Analytics training.
+🙏 A big thank you to Nebiant Analytics for the free 3-day Data Analytics training.
 
 ---
 📌 _ And thank you for viewing this project! Feel free to fork, star ⭐, or contribute._
