@@ -1,4 +1,4 @@
-![](SGIcon.png)
+![SGMart Icon](SGIcon.png)
 
 # 🛍️ Sales Analysis Dashboard – Style and Glow Mart
 
