@@ -98,17 +98,6 @@ This dashboard was designed to:
 
 ---
 
-## 📈 Next Steps
-
-- [x] Clean and validate dataset  
-- [x] Create Excel dashboard  
-- [x] Perform exploratory analysis  
-- [ ] Add dynamic charts in Power BI  
-- [ ] Build predictive models for future sales trends  
-- [ ] Automate monthly reporting templates
-
----
-
 ## 🤝 Connect with Me
 
 💼 [LinkedIn](#)  
