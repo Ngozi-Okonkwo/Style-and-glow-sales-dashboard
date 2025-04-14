@@ -2,8 +2,6 @@
 
 This repository showcases a **Sales Analysis Dashboard** built using **Microsoft Excel 2016** to visualize and analyze sales performance for Style and Glow Mart. This data was provided by Nebiant Analytics during the IWD 3-day free Data Analytics training. The dashboard provides a comprehensive overview of product sales, store performance, customer segments, and payment methods between **2022–2024**.
 
-![Sales Dashboard](DashboardSGMart.png)
-
 ---
 
 ## 📌 Table of Contents
@@ -60,7 +58,7 @@ This dashboard was designed to:
 
 #### Major KPIs at a glance
 
-![Style and Glow Mart Dashboard](Screen1.png)
+![Sales Dashboard](DashboardSGMart.png)
 
 ### 💳 Payment Methods
 - **Card:** 46.9%  
