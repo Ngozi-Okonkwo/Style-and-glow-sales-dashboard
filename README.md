@@ -1,7 +1,6 @@
 # 🛍️ Sales Analysis Dashboard – Style and Glow Mart
 
-This repository showcases a **Sales Analysis Dashboard** built using **Microsoft Excel 2016** to visualize and analyze sales performance for Style and Glow Mart.  
-The dashboard provides a comprehensive overview of product sales, store performance, customer segments, and payment methods between **2022–2024**.
+This repository showcases a **Sales Analysis Dashboard** built using **Microsoft Excel 2016** to visualize and analyze sales performance for Style and Glow Mart. The dashboard provides a comprehensive overview of product sales, store performance, customer segments, and payment methods between **2022–2024**.
 
 ![Sales Dashboard](./New%20dashboard%20for%20Style%20and%20Glow%20mart.png)
 
