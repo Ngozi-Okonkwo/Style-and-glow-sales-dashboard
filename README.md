@@ -68,19 +68,19 @@ This dashboard was designed to:
 - **Online:** 19.9%
 
 ### 🛍️ Top Product Categories by Revenue
-- Bag: ₦79,210  
-- Clothing: ₦77,350  
-- Hair Accessories: ₦75,240  
+- Bag: $79,210  
+- Clothing: $77,350  
+- Hair Accessories: $75,240  
 
 ### 🏬 Top Performing Stores
-- **S003:** ₦149,380  
-- **S005:** ₦148,360  
-- **S002:** ₦136,610  
+- **S003:** $149,380  
+- **S005:** $148,360  
+- **S002:** $136,610  
 
 ### 👥 Customer Segment Breakdown
-- Low Income: ₦234,480 (35%)  
-- High Income: ₦230,850 (34%)  
-- Middle Income: ₦201,790 (31%)
+- Low Income: $234,480 (35%)  
+- High Income: $230,850 (34%)  
+- Middle Income: $201,790 (31%)
 
 ---
 
